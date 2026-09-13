@@ -1,0 +1,3 @@
+luma.oled
+pillow
+pigpio
