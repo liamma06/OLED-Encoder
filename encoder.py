@@ -3,9 +3,9 @@ from encoder_decode import decode
 from display import show_num
 import time
 
-CLK_PIN = 1
-DT_PIN = 2
-SW_PIN = 3
+CLK_PIN = 17
+DT_PIN = 27
+SW_PIN = 22
 
 encoder = pigpio.pi()
 
